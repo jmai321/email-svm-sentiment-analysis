@@ -5,7 +5,6 @@ This project is a Python-based implementation of spam email classification using
 ## Table of Contents
 - [Features](#features)
 - [Setup](#setup)
-- [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
 
 ---
