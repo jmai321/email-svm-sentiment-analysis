@@ -23,11 +23,11 @@ This project is a Python-based implementation of spam email classification using
 3. **Visualizations**:
    - Heatmap of accuracy scores for various SVM parameters.
 
-     ![Grid Search Accuracy Heatmap](graph.png)
+     <img src="graph.png" alt="Grid Search Accuracy Heatmap" width="600"/>
 
    - Bar graph showing the distribution of sentiment in spam emails.
 
-     ![Sentiment Distribution Graph](sentiment%20graph.png)
+     <img src="sentiment%20graph.png" alt="Sentiment Distribution Graph" width="600"/>
 
 ---
 
