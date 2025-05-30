@@ -6,6 +6,7 @@ This project is a Python-based implementation of spam email classification using
 - [Features](#features)
 - [Setup](#setup)
 - [Dependencies](#dependencies)
+- [Note](#note)
 
 ---
 
@@ -21,7 +22,12 @@ This project is a Python-based implementation of spam email classification using
 
 3. **Visualizations**:
    - Heatmap of accuracy scores for various SVM parameters.
+
+     ![Grid Search Accuracy Heatmap](graph.png)
+
    - Bar graph showing the distribution of sentiment in spam emails.
+
+     ![Sentiment Distribution Graph](sentiment%20graph.png)
 
 ---
 
@@ -31,7 +37,7 @@ Follow these steps to set up the project environment:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/jmai321/481-email-svm-sentiment-analysis.git)
+   git clone https://github.com/jmai321/481-email-svm-sentiment-analysis.git
    cd 481-email-svm-sentiment-analysis
 2. Create a virtual environment
    ```bash
